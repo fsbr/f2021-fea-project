@@ -2,10 +2,10 @@ import numpy as np
 
 midterm = 88
 quizavg = 10*np.mean([10,8,10,10,10,9])
-hwavg = np.mean([90, 71, 94, 92, 95, 85, 88, 30,70,70])
+hwavg = np.mean([90, 71, 94, 92, 95, 85, 88, 30,30,30])
 
-project = 85 
-finalexam = 85 
+project = 80 
+finalexam = 80 
 print("quiz", quizavg)
 print("hw", hwavg)
 
